@@ -49,6 +49,11 @@
 - [PostgreSQL DBA](https://roadmap.sh/postgresql-dba) - PostgreSQL DB Roadmap
 - [Java](https://roadmap.sh/java) - JAVA developer roadmap
 - [Angular](https://roadmap.sh/angular) - Angular developer roadmap
+- [Vue](https://roadmap.sh/vue) - Veu developer roadmap
+- [Javascript](https://roadmap.sh/javascript) - Javascript developer roadmap
+- [Node JS](https://roadmap.sh/nodejs) - Node.js developer roadmap
+- [QA](https://roadmap.sh/qa) - QA Engineer roudmap
+- [Blockchain](https://roadmap.sh/blockchain) - Blockchain Developer roudmap
 
 ### 📚 DIAGRAMMING TOOLS (for cloud architecture)
 
