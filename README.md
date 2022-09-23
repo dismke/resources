@@ -395,7 +395,8 @@ HTML Themes and UI Kits to create your applications faster.
 - [Running MacOS on Windows 10 with WSL2, KVM and QEMU](https://dev.to/nicole/running-macos-on-windows-10-with-wsl2-kvm-and-qemu-21e1) - Running MacOS on Windows 10 with WSL2, KVM and QEMU
 - [Web Development with HHVM and Hack: Getting Set Up With Windows](https://medium.com/@mikeabelar/web-development-with-hhvm-and-hack-getting-setup-with-windows-a046ac09603a) - Web Development with HHVM and Hack
 - [Install Linux on Windows with WSL](https://learn.microsoft.com/en-us/windows/wsl/install) - Install Linux on Windows with WSL
-- [ Docker WSL](https://docs.docker.com/desktop/windows/wsl/) - Docker Desktop WSL 2 backend
+- [ Docker WSL](https://docs.docker.com/desktop/windows/wsl/) -Docker Desktop WSL 2 backend
+- [Kubernetes & Docker](https://kubernetes.io/blog/2020/05/21/wsl-docker-kubernetes-on-the-windows-desktop/) -  Kubernetes on the Windows Desktop
 
 ### 📔 DEVELOPER BLOG SITES
 
