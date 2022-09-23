@@ -29,6 +29,7 @@
 - [Online Learning Resources](#-online-learning-resources)
 - [Resume](#-resume)
 - [Others](#-others)
+- [WSL](#-WSL)
 - [Developer Blog Sites](#-developer-blog-sites)
 - [YouTube Channels](#-youtube-channels)
 - [Hosting companies](#-hosting-companies)
@@ -383,6 +384,11 @@ HTML Themes and UI Kits to create your applications faster.
 - [Github Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 - [Codesee](https://www.codesee.io/) - CodeSee is a platform that visualizes, detects and automates your code for better onboarding, code reviews, code quality, and compliance.
 - [Brilliant.org](https://brilliant.org/) - Get started as a beginner with the fundamentals, or dive right into intermediate and advanced courses for professionals.
+
+### 📔 WSL (WSL development environment)
+
+- [Running MacOS on Windows 10 with WSL2, KVM and QEMU](https://dev.to/nicole/running-macos-on-windows-10-with-wsl2-kvm-and-qemu-21e1) - Running MacOS on Windows 10 with WSL2, KVM and QEMU
+- [Web Development with HHVM and Hack: Getting Set Up With Windows](https://medium.com/@mikeabelar/web-development-with-hhvm-and-hack-getting-setup-with-windows-a046ac09603a) - Web Development with HHVM and Hack: Getting Set Up With Windows
 
 ### 📔 DEVELOPER BLOG SITES
 
