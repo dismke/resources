@@ -29,7 +29,7 @@
 - [Online Learning Resources](#-online-learning-resources)
 - [Resume](#-resume)
 - [Others](#-others)
-- [WSL](#-WSL)
+- [WSL](#-wsl-wsl-development-environment))
 - [Developer Blog Sites](#-developer-blog-sites)
 - [YouTube Channels](#-youtube-channels)
 - [Hosting companies](#-hosting-companies)
