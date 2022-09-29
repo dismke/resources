@@ -87,6 +87,7 @@
 - [CSS 3, Media Queries Cheat Sheet](https://mac-blog.org.ua/css-3-media-queries-cheat-sheet/) - CSS 3, Media Queries Cheat Sheet.
 - [SEO Cheat Sheet](https://moz.com/learn/seo/seo-cheat-sheet) - The Web Developer's SEO Cheat Sheet.
 - [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/) - ThemeSelection's Bootstrap 5 Cheat Sheet.
+- [Coding Interview Prep](https://app.milanote.com/1OxHtP1BLpyfdF/coding-interview-prep?p=CZjjQp7wdRy) - Coding Interview Prep by [CS Jackie](https://www.youtube.com/c/CSJackie)
 
 ### 🎭 DESIGN TOOLS
 
