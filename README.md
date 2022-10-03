@@ -305,7 +305,7 @@
 
 ### ⚡ C++
 
-- [C++ course](https://www.tutorialspoint.com/cplusplus/index.htm) - Usefull basic c++ course
+- [C++ style guide(https://google.github.io/styleguide/cppguide.html) - C++ style guide
 
 ### ⚡ C#
 ### ⚡ Swift
