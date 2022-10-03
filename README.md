@@ -305,7 +305,7 @@
 
 ### ⚡ C++
 
-- [C++ style guide(https://google.github.io/styleguide/cppguide.html) - C++ style guide
+- [C++ style guide](https://google.github.io/styleguide/cppguide.html) - C++ style guide
 
 ### ⚡ C#
 ### ⚡ Swift
