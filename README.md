@@ -97,13 +97,11 @@
 - [Whimsical](https://whimsical.com) - Communicate visually at the speed of thought – collaborative flowcharts, wireframes, sticky notes, and mind maps.
 - [Undesign](https://undesign.learn.uno) - Collection of free design tools and resources for makers, developers and designers.
 - [coolors.co](https://coolors.co)
-- [colors.dopely.top](https://colors.doply.top)
 - [color.adobe.com](https://color.adobe.com)
 - [mycolor.space](https://mycolor.space)
 - [colorkit.io](https://colorkit.io)
-- [colorhunt.co(https://colorhunt.co)
+- [colorhunt.co](https://colorhunt.co)
 - [colors.muz.li](https://colors.muz.li)
-- [khroma.co](https://khroma.co)
 
 ### 🌐 HOW THE WEB WORKS?
 
